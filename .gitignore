@@ -16,3 +16,7 @@ UserSettings/
 *.pdb
 
 Assets/AssetStoreTools*
+
+.plastic/
+.vsconfig
+ignore.conf
